@@ -6,7 +6,7 @@ Die Übungen in diesem Repository sind in verschiedene Abschnitte aufgebaut.
 
 - Öffne die Datei index.qmd im Ordner docs und folge den Anweisungen der Kursleitung
 
-## Abschnitt 2: Ihr seid dran
+## Abschnitt 2: Ihr seid dran (20 Minuten)
 
 - In Break-out rooms bearbeitet ihr die Aufgaben in der Datei 01-daten-aufbereitung.R im Ordner analyse
 
